@@ -1,6 +1,6 @@
 # Generate Alfred App Snippet bundles from CSV files
 
-I want to keep my Alfred Snippets in sync between multiple machines. This is my solution.
+A great way to update and share Alfred snippets with others.
 
 ## Instructions
 
